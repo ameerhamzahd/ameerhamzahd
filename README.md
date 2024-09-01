@@ -14,9 +14,6 @@ width="350" height="375">
   
 - 📫 How to reach me **ameerhamzah.daiyan@gmail.com**
 
-- ⚡ Fun fact **Joey Tribbiani says, "How you doin'?😏😅"**
-
-
 <br><br>
 
 <h3 align="left">Connect with me:</h3>
