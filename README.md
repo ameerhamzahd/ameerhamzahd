@@ -12,9 +12,7 @@
   <img src="https://komarev.com/ghpvc/?username=ameerhamzahd&label=Profile%20views&color=0e75b6&style=flat" alt="ameerhamzahd" /> 
 </p>
 
-- 🌱 I’m currently learning **JavaScript**
-  
-- 📝 I regularly practice problem solving.
+- 🌱 I’m currently learning **MERN**
   
 - 📫 How to reach me ameerhamzah.daiyan@gmail.com
 
