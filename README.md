@@ -5,9 +5,11 @@
   I am currently undertaking a Bachelor's degree in Computer Science and Engineering.
 </h3>
 
+<br></br>
+
+<img align="centre" alt="banner" width="1200" src="LinkedIn Banner.jpg">
+
 <br><br>
-<img align="right" alt="Coding" width="324" height="405"
-  src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTgxd3p5MG1laGswaWFxbWtyN2VzeG5tMmN5aGI4b3Z1Z3lwbjdvaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VbnUQpnihPSIgIXuZv/giphy.gif">
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=ameerhamzahd&label=Profile%20views&color=0e75b6&style=flat"
