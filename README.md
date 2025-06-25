@@ -18,7 +18,7 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- 📫 How to reach me **ameerhamzah.daiyan@gmail.com**
+- 📫 How to reach me **ameerhamzahdaiyan.02@gmail.com**
 
 <br><br>
 
