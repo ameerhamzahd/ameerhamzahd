@@ -5,22 +5,16 @@
   I am currently undertaking a Bachelor's degree in Computer Science and Engineering.
 </h3>
 
-<br></br>
-
 <img align="centre" alt="banner" width="1200" src="LinkedIn Banner.jpg">
-
-<br><br>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=ameerhamzahd&label=Profile%20views&color=0e75b6&style=flat"
     alt="ameerhamzahd" />
 </p>
 
-- 🌱 I’m currently learning **MERN**
+- I’m currently learning **Next.js**
 
-- 📫 How to reach me **ameerhamzahdaiyan.02@gmail.com**
-
-<br><br>
+- How to reach me **ameerhamzahdaiyan.02@gmail.com**
 
 <h3 align="left">
   Connect with me:
