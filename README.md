@@ -1,12 +1,12 @@
 <h1 align="center">
     AMEER HAMZAH DAIYAN
 </h1>
-<h5 align="center">
+<h3 align="center">
     Front-end Developer at FAARNS LTD. with hands-on experience contributing to 10+ team-driven projects. I’m passionate
     about building intuitive, high-impact web applications and continuously evolving my skills across the MERN stack.
     With a growing interest in DevOps and SEO, I aim to create seamless, scalable, and user-focused digital experiences
     that drive meaningful results.
-</h5>
+</h3>
 
 <p align="center">
     - How to reach me: <strong>ameerhamzahdaiyan.02@gmail.com</strong>
