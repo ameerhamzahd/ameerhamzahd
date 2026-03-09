@@ -5,7 +5,8 @@
     Front-end Developer at FAARNS LTD. with hands-on experience contributing to 15+ team-driven projects. I’m passionate
     about building intuitive, high-impact web applications and continuously evolving my skills across the MERN stack.
     With a growing interest specially in DevOps and AI/ML, I aim to create seamless, scalable, and user-focused digital
-    experiences that drive meaningful results.
+    experiences 
+    that drive meaningful results.
 </h4>
 
 <h3 align="center">
