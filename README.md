@@ -71,6 +71,9 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"
             alt="mssql" width="40" height="40" />
     </a>
+    <a href="https://neon.tech" target="_blank">
+        <img src="https://i.ibb.co.com/tTrRGYXk/image.png" width="40" height="40" />
+    </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/nextjs" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40" />
     </a>
