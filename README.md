@@ -83,9 +83,9 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40" />
     </a>
-    <!-- <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer">
+    <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40" />
-    </a> -->
+    </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40" />
     </a>
