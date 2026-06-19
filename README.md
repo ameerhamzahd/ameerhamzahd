@@ -63,7 +63,10 @@
 
 <p align="center">
     <a href="https://neon.tech" target="_blank">
-        <img src="https://i.ibb.co.com/tTrRGYXk/image.png" width="40"/>
+        <img src="https://i.ibb.co.com/tTrRGYXk/image.png" alt="neondb" width="40"/>
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/nestjs" target="_blank"> 
+        <img src="https://skillicons.dev/icons?i=nestjs" alt="nestjs" width="40"/> 
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/nextjs" target="_blank">
         <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40"/>
@@ -92,6 +95,9 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank">
         <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40"/>
     </a>
+</p>
+
+<p align="center">
     <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank">
         <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40"/>
     </a>
