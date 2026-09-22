@@ -2,7 +2,7 @@
     AMEER HAMZAH DAIYAN
 </h1>
 <h4 align="center">
-    Front-end Developer at FAARNS LTD. with hands-on experience contributing to 20+ collaborative projects, currently working as a Software Engineer at mPair Technologies Ltd.. Passionate about building intuitive, high-impact web applications and continuously evolving across the MERN stack, with growing expertise in scalable system design, DevOps practices, and AI/ML-driven solutions. Focused on creating seamless, user-centered digital experiences that deliver meaningful business impact and real-world value.
+    Software Engineer at Intelio Labs with experience contributing to 20+ collaborative projects at FAARNS LTD. and 2+ projects as a Trainee Software Engineer at mPair Technologies Ltd. With a foundation in frontend development and the MERN stack, I focus on building responsive, scalable, and user-centered web applications. Currently deepening my knowledge of DevOps and exploring Agentic AI to build intelligent, automated, and production-ready software systems that create meaningful real-world impact.
 </h4>
 
 <h3 align="center">Connect with me:</h3>
